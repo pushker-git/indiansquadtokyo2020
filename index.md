@@ -12,19 +12,19 @@
 		</tr>
 		<tr>
 			<td>Tarundeep Rai</td>
-			<td>&nbsp;</td>
+			<td><a href="https://www.instagram.com/rai_tarundeep/">@rai_tarundeep</a></td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Atanu Das</td>
-			<td>&nbsp;</td>
+			<td><a href="https://www.instagram.com/theatanudas/">@theatanudas</a></td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Pravin Jadhav</td>
-			<td>&nbsp;</td>
+			<td><a href="https://www.instagram.com/pravin.archer/">@pravin.archer</a></td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -43,7 +43,7 @@
 		</tr>
 		<tr>
 			<td>Deepika Kumari</td>
-			<td>&nbsp;</td>
+			<td><a href="https://www.instagram.com/dkumari.archer/">@dkumari.archer</a></td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -76,7 +76,7 @@
 			<td>
 			<p><strong>Men&rsquo;s 20 km race walking</strong></p>
 			</td>
-			<td style="width:66px">&nbsp;</td>
+			<td style="width:66px"><a href="https://www.instagram.com/irfan_kolothum_thodi/">@irfan_kolothum_thodi</a></td>
 			<td style="width:66px">&nbsp;</td>
 			<td style="width:66px">&nbsp;</td>
 		</tr>
@@ -87,7 +87,7 @@
 			<td>
 			<p><strong>Men&rsquo;s 20 km race walking</strong></p>
 			</td>
-			<td style="width:66px">&nbsp;</td>
+			<td style="width:66px"><a href="https://www.instagram.com/sandeep_punia_olympian/">@sandeep_punia_olympian</a></td>
 			<td style="width:66px">&nbsp;</td>
 			<td style="width:66px">&nbsp;</td>
 		</tr>
@@ -98,7 +98,7 @@
 			<td>
 			<p><strong>Men&rsquo;s 20 km race walking</strong></p>
 			</td>
-			<td style="width:66px">&nbsp;</td>
+			<td style="width:66px"><a href="https://www.instagram.com/rahul_rohilla05/">https://www.instagram.com/rahul_rohilla05/</a></td>
 			<td style="width:66px">&nbsp;</td>
 			<td style="width:66px">&nbsp;</td>
 		</tr>
@@ -424,7 +424,7 @@
 
 <p>&nbsp;</p>
 
-<table border="0" cellpadding="1" cellspacing="1" style="width:500px">
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
 	<tbody>
 		<tr>
 			<td>Player</td>
